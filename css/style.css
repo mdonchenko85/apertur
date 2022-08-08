@@ -112,5 +112,6 @@ header nav li:last-of-type a{
 }
 
 .thirdSectionST{
-
+    max-width: 580px;
+    margin: auto;
 }
